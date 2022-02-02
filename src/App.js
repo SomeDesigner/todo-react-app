@@ -1,6 +1,6 @@
 import './App.css';
 // import {} from 'react';s
-import TodoList from './components/todoList/TodoList';
+import TodoList from './components/organisms/TodoList';
 
 function App() {
   return (
